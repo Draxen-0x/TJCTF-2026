@@ -1,6 +1,6 @@
 # 🚩 TJCTF 2026 — Reverse Engineering Writeups
 
-> My solutions and writeups for the **Reverse Engineering** challenges from [TJCTF 2026](https://tjctf.org/), an international online jeopardy-style CTF hosted by students from Thomas Jefferson High School for Science and Technology.
+> My solutions and writeups for the **Reverse Engineering** challenges from [TJCTF 2026](https://tjctf.org/), an international online jeopardy-style CTF .
 
 ---
 
