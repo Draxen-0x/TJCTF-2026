@@ -46,7 +46,6 @@ TJCTF2026-RE/
 - [Ghidra](https://ghidra-sre.org/) — Static analysis / decompiler
 - [IDA Free](https://hex-rays.com/ida-free/) — Disassembler
 - [Python](https://www.python.org/) — Scripting & automation
-- [Radare2](https://rada.re/) — Binary analysis framework
 - [strings / file / objdump](https://linux.die.net/) — Linux utilities
 
 ---
