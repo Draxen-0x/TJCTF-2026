@@ -5,7 +5,7 @@
 
 **صلي علي النبي** 
 
-![[Rotated Description.png]]
+<img width="461" height="232" alt="Image" src="https://github.com/user-attachments/assets/03c510c3-5110-403e-a7dd-789226ef0314" />
 
 
 
@@ -14,12 +14,12 @@
 
 **Type of the file : data**
 
-**![[Type of File.png]]**
+<img width="527" height="136" alt="Image" src="https://github.com/user-attachments/assets/12ba90bc-b6a0-4e4a-8457-9ccc5ff89797" />
 
 
 **Now I will see bytes in hex of these file**
 
-**![[Hex Bytes of File.png]]**
+<img width="621" height="632" alt="Image" src="https://github.com/user-attachments/assets/4ecc67f9-438e-4cb1-8d59-0be69764abf6" />
 
 **so First 4 bytes :**
 
@@ -57,11 +57,11 @@ new_bytes = bytes([(b - 0x1d) % 256 for b in data])
 open('new_elf', 'wb').write(new_bytes)
 ```
 
-![[ELF Script.png]]
+<img width="342" height="66" alt="Image" src="https://github.com/user-attachments/assets/0bec9860-f987-4907-b318-e773d3f7489b" />
 
 **I will run it** 
 
-**![[Run Python Script.png]]**
+<img width="331" height="66" alt="Image" src="https://github.com/user-attachments/assets/c3c7ccf4-3b6b-442e-a9bb-3d68318cca16" />
 
 
 **After I run python script** 
@@ -73,7 +73,7 @@ open('new_elf', 'wb').write(new_bytes)
 **file create bash script `script.sh`**
 
 
-**![[Create Script.sh.png]]**
+<img width="393" height="269" alt="Image" src="https://github.com/user-attachments/assets/415430b1-fe4c-4c39-81b8-46f6f12f5f80" />
 
 
 
@@ -89,7 +89,7 @@ open('new_elf', 'wb').write(new_bytes)
 **`H4sIAEDAzmkC/0tNzshXUPLJz8/OzEtXSMsvUkhUSMtJTLdXUlBWSHEvyEpxjzKPzAo0THSzzPY18jL0y7Es8XMJNfY19rJ0Tre1BQCGqZA9QQAAAA==`**
 
 
-**![[Run Script.sh.png]]**
+<img width="1897" height="267" alt="Image" src="https://github.com/user-attachments/assets/9f551ec0-9f32-4157-b2d7-06cfe5856524" />
 
 **This is text of flag :**
 
@@ -113,7 +113,7 @@ print(real_flag.decode())
 **The result of script :** 
 
 
-**![[Flag_dec Script.png]]**
+<img width="555" height="75" alt="Image" src="https://github.com/user-attachments/assets/845f9ece-2265-40ba-9c68-f05fe6f30618" />
 
 
 **I will take the flag :**
@@ -125,7 +125,7 @@ print(real_flag.decode())
  **I will decode it by Cyberchef Tool**
 
 
-**![[Decode Flag.png]]**
+<img width="1333" height="811" alt="Image" src="https://github.com/user-attachments/assets/d9f31e3e-ef34-4065-8860-17357959b845" />
 
 
 ### 3) Flag
